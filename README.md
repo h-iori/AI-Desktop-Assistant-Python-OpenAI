@@ -74,3 +74,14 @@ Installing all the necessary python module using
 ```
 
 Sure thing! Just hit the assistant with some voice commands now!
+
+
+# Contribution:
+
+
+- We are Open for Pull Requests.
+- Please contribute and add value to the code.
+- If you have some ideas for new features and you don't have time to implement them please open an issue with the tag new_feature.
+- Please don't forget to comment (document) your code!
+
+- Before creating a Pull Request please go through the above guidelines and the code!
