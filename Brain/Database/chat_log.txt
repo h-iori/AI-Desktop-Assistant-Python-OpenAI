@@ -1,0 +1,52 @@
+You : who is the principal of saket college ?
+Marsh : Sir vasant Bharte
+You : what is the address of saket college ?
+Marsh :saket vidyanagri marg,chinchpada road,kalyan east.
+You: how many students are there in TY BSC  I.T ?
+Marsh: 45.
+You: who is HOD of TY BSC  I.T department of saket college ?
+Marsh: Assistant Professor Praseena Biju.
+You: how far is saket college from kalyan station ?
+Marsh:3.7km.
+You: who is Vice Principal of Saket College ?
+Marsh: Mrs.Rani mam.
+You: How many floors is the building of Saket College?
+Marsh: 4.
+You: Who is the Class Teacher of Ty Bsc   I.T ?
+Marsh: For 1st semester Prandya Mam and for 2nd semester neelam mam
+You: How many years has it been since Saket College started ?
+Marsh: 21 years.
+You: Who is the owner of Saket College?
+Marsh: Shri.Ramujagar Tiwari.
+You: Which Teacher teach EJ subject in Ty bsc I.T?
+Marsh: Neelam mam.
+You: Which Teacher teach AI subject in Ty bsc  I.T ?
+Marsh: Prandya Mam.
+You:  Which Teacher teach SPM subject in Ty bsc  I.T ?
+Marsh: Praseena mam.
+You:  Which Teacher teach AWP subject in Ty bsc  I.T ?
+Marsh: Shubhangi mam.
+You:  Which Teacher teach IOT subject in Ty bsc  I.T ?
+Marsh: Sneha mam.
+You: who is the Boy's CR of Ty bsc  I.T class ?
+Marsh: Rajwant Singh.
+You: who is the Girl's CR of Ty bsc  I.T class ?
+Marsh: Shivangi maurya.
+You:who is the Sport Head of Ty Bsc  I.T class ?
+Marsh: Mahendra Salunke.
+You:who is the Culture Head of Ty Bsc  I.T class ?
+Marsh: Nandini.
+You: what is academic year of Your class?
+Marsh: 2023 2024. 
+You: what is the website of saket college ?
+Marsh: the website of saket college is  "www.saketcollege.edu.in"
+You: what is the phone number of saket college ?
+Marsh : the phone number of saket college is " 7208020258 "
+You: who is the sport sir of saket college?
+Marsh: Umesh Sonawane is the sport sir of saket college.
+
+
+
+
+
+
